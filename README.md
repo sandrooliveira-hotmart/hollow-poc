@@ -174,3 +174,8 @@ But I couldn't finish this POC without testing the pros and cons!
 
 More information or any questions, just look for me!
 
+## References
+
+Github reference implementation - https://github.com/Netflix/hollow-reference-implementation)<br>
+Hollow getting start - https://hollow.how/getting-started/
+Github Hollow - https://github.com/Netflix/hollow
