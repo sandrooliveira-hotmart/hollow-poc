@@ -33,10 +33,6 @@ data class User(
 
         @Column(columnDefinition = "datetime")
         @Temporal(TemporalType.TIMESTAMP)
-        val dateBorn: Date = Date(),
-
-        @LazyCollection(LazyCollectionOption.FALSE)
-        @OneToMany(mappedBy = "user", cascade = arrayOf(CascadeType.ALL))
-        val wallets: List<Wallet>? = null
+        val dateBorn: Date = Date()
 
 )
