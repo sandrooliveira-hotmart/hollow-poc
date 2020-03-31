@@ -154,7 +154,7 @@ In this project, we use only a small demonstration of this powerful tool:
    
    We can see that there is a big improvement in relation to the response time of the data request!
    
-##Conclusions
+## Conclusions
 
 Hollow seems to be a very powerful tool to be used in applications that demand agility and usability for the end user and not only that, for those who are also developers, it can be very intuitive, sometimes.
 
